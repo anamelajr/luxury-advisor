@@ -19,9 +19,10 @@ st.markdown("""
         color: #f0f0f0;
         border: 1px solid #f0f0f0;
         border-radius: 0px;
-        letter-spacing: 0.1em;
-        width: 100%;
-        padding: 0.75em;
+        letter-spacing: 0.15em;
+        width: auto;
+        padding: 0.75em 3em;
+        margin-top: 1em;
     }
     .stButton > button:hover {
         background-color: #f0f0f0;
