@@ -54,7 +54,7 @@ def luxury_advisor(vibe, budget, occasion):
 
 A client is looking for recommendations:
 - Aesthetic/Vibe: {vibe}
-- Budget: {budget} (strict limit, do not recommend anything above this)
+- Budget: {budget} (this is a HARD limit. Every single product recommended must be purchasable within this budget. If the budget is low, recommend affordable brands and high street options, never luxury brands above this price point)
 - Occasion: {occasion}
 
 Give them:
